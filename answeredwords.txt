@@ -1,0 +1,18 @@
+Configuración guardadaFrase: Tengo hambre | Respuesta voz: Pues es que como que | Correcta: I am hungry | Puntos: 6
+Frase: La comunicación efectiva es clave en el mundo moderno | Respuesta:  | Correcta: Effective communication is key in the modern world | Puntos: 0
+Frase: Sí | Respuesta:  | Correcta: Yes | Puntos: 0
+Frase: Agua | Respuesta voz: Olá olha que gostoso faz | Correcta: Water | Puntos: 13
+Frase: Agua | Respuesta voz: Olá olha que gostoso faz | Correcta: Water | Puntos: 13
+Frase: Agua | Respuesta voz: Olá olha que gostoso faz | Correcta: Water | Puntos: 13
+Frase: No | Respuesta voz: no no | Correcta: No | Puntos: 57
+Frase: Hola | Respuesta: hi | Correcta: Hello | Puntos: 28
+Frase: Fuego | Respuesta: Fire | Correcta: Fire | Puntos: 100
+Frase: No | Respuesta: Nope | Correcta: No | Puntos: 66
+Frase: Fuego | Respuesta: Fire | Correcta: Fire | Puntos: 100
+Frase: Sí | Respuesta: Yes | Correcta: Yes | Puntos: 100
+Frase: Estoy interesado en aprender sobre la historia y la cultura | Respuesta: I´m interested in learning about history and culture | Correcta: I am interested in learning about history and culture | Puntos: 97
+Frase: ¿Cuáles son tus perspectivas sobre el futuro? | Respuesta: What are your perspectives about the future | Correcta: What are your perspectives on the future? | Puntos: 92
+Frase: ¿Podrías ayudarme a entender este concepto complejo? | Respuesta voz:  | Correcta: Could you help me understand this complex concept? | Puntos: 0
+Frase: ¿Podrías ayudarme a entender este concepto complejo? | Respuesta: Could you help me to understand this complex concept? | Correcta: Could you help me understand this complex concept? | Puntos: 97
+Frase: Sí | Respuesta voz: ves | Correcta: Yes | Puntos: 66
+Frase: Tengo hambre | Respuesta voz: Five hungry | Correcta: I am hungry | Puntos: 72
