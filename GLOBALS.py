@@ -26,4 +26,3 @@ COLORSFLAGS = {
     "ko": "#17becf"
 }
 
-CACA = "caca"
